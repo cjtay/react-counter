@@ -1,0 +1,7 @@
+.Reset {
+    background-color: red;
+    width: 100px;
+    margin: 1rem auto;
+    padding: 1rem;
+    cursor: pointer;
+}

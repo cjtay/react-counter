@@ -1,0 +1,10 @@
+.App {
+    text-align: center;
+}
+
+.App span {
+    display: block;
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
